@@ -1,0 +1,26 @@
+{
+	"name": "Downcase",
+	"description": "Converts your text to lowercase.",
+	"version": "1.0.0",
+	"tags": [
+		"downcase",
+		"lowercase",
+		"tolower"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "Marcell Purham",
+			"email": "m@marcell.me",
+			"homepage": "marcell.me"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/html-formatter"
+		}
+	]
+}
